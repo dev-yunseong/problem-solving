@@ -1,4 +1,4 @@
-package programmers.groupphoto;
+package programmers.GroupPhoto;
 
 import java.util.*;
 import java.lang.*;

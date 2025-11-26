@@ -1,4 +1,4 @@
-package programmers.numofdices;
+package programmers.NumOfDices;
 
 class Solution {
 

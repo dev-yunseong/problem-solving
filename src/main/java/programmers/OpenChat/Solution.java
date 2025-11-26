@@ -1,4 +1,4 @@
-package programmers.openchat;
+package programmers.OpenChat;
 
 import java.util.*;
 import java.lang.*;

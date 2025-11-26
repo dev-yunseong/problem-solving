@@ -1,4 +1,4 @@
-package programmers.threemusketeers;
+package programmers.ThreeMusketeers;
 import java.util.*;
 
 class Solution {

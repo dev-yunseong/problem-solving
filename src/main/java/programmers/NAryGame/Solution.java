@@ -1,4 +1,4 @@
-package programmers.narygame;
+package programmers.NAryGame;
 
 import java.util.*;
 import java.lang.*;

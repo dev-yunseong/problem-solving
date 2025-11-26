@@ -1,4 +1,4 @@
-package programmers.dividetestrooms;
+package programmers.DivideTestRooms;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,8 +11,6 @@ import java.util.stream.Collectors;
 // - 간선을 줄을 세움
 // -
 // 2. 각 그룹의 합을 빠르게 구함
-import java.util.*;
-import java.util.stream.Collectors;
 
 // 1. 간선을 중복 없이 자름
 // - 간선을 줄을 세움

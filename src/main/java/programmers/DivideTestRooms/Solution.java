@@ -1,4 +1,4 @@
-package programmers.dividetestrooms;
+package programmers.DivideTestRooms;
 
 class Solution {
     // k

@@ -1,4 +1,4 @@
-package programmers.ctrlz;
+package programmers.CtrlZ;
 
 class Solution {
     public int solution(String s) {

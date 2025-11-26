@@ -1,4 +1,4 @@
-package programmers.bestset;
+package programmers.BestSet;
 
 import java.lang.*;
 

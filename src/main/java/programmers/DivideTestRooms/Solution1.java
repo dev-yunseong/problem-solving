@@ -1,4 +1,4 @@
-package programmers.dividetestrooms;
+package programmers.DivideTestRooms;
 
 import java.util.*;
 import java.util.stream.Collectors;

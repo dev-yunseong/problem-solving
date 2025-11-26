@@ -1,4 +1,4 @@
-package programmers.morsecode;
+package programmers.MorseCode;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package programmers.antarmy;
+package programmers.AntArmy;
 
 class Solution {
     public int solution(int hp) {
